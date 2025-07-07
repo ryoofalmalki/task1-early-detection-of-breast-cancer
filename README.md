@@ -38,9 +38,9 @@ The website is designed to encourage early self-checks and medical consultations
 
 ---
 
-### 🏠 Home Page – Main landing page with navigation and awareness prompt
-![🏠 Home Page – Main landing page with navigation and awareness prompt](IMG_5821.jpeg)
-
+### 🏠 Home Page – Main landing page with navigation and awareness prompt  
+🪄 Health tips also appear directly on the homepage to reinforce awareness.  
+![Home Page](IMG_5821.jpeg)
 ---
 
 ### ❓ FAQ Page – 10 most common questions answered clearly
@@ -48,8 +48,9 @@ The website is designed to encourage early self-checks and medical consultations
 
 ---
 
-### 🩺 Self-Check Page – Monthly self-exam guidance with helpful tips
-![🩺 Self-Check Page – Monthly self-exam guidance with helpful tips](IMG_5825.jpeg)
+### 🩺 Self-Check Page – Monthly self-exam guidance with helpful tips  
+🪄 Also includes dedicated section with self-exam instructions.  
+![Self-Check Page](IMG_5825.jpeg)
 
 ---
 
