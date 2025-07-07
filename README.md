@@ -28,7 +28,7 @@ The website is designed to encourage early self-checks and medical consultations
 | script.js           | JavaScript for interactivity and night mode |
 | PINK.jpg            | Breast cancer awareness ribbon/logo   |
 | stars.jpg           | Calming starry background             |
-| IMG_5821.jpeg – IMG_5829.jpeg | Screenshots of each section of the website |
+| IMG_5821.jpeg – IMG_5829.jpeg ,IMG_5860.jpeg | Screenshots of each section of the website |
 | README.md           | Project documentation file            |
 
 
@@ -44,42 +44,42 @@ The website is designed to encourage early self-checks and medical consultations
 ---
 
 ### ❓ FAQ Page – 10 most common questions answered clearly
-![❓ FAQ Page – 10 most common questions answered clearly](IMG_5822.jpeg)
+![❓ FAQ Page – 10 most common questions answered clearly](IMG_5860.jpeg)
 
 ---
 
 ### 🩺 Self-Check Page – Monthly self-exam guidance with helpful tips
-![🩺 Self-Check Page – Monthly self-exam guidance with helpful tips](IMG_5823.jpeg)
+![🩺 Self-Check Page – Monthly self-exam guidance with helpful tips](IMG_5825.jpeg)
 
 ---
 
 ### 📅 Doctor Visit Page – Signs that require visiting a specialist
-![📅 Doctor Visit Page – Signs that require visiting a specialist](IMG_5824.jpeg)
+![📅 Doctor Visit Page – Signs that require visiting a specialist](IMG_5827.jpeg)
 
 ---
 
-### 📍 Health Center Page – Redirects to Google Maps for nearest center
-![📍 Health Center Page – Redirects to Google Maps for nearest center](IMG_5825.jpeg)
+### 🌐 Health Center - Location Detection Page
+![🌐 Health Center - Location Detection Page](IMG_5824.jpeg)
 
+### 🗺️ Health Center - Google Maps Results Page
+![🗺️ Health Center - Google Maps Results Page](IMG_5823.jpeg)
 ---
 
 ### 🌙 Night Mode – Example with dark mode enabled
 ![🌙 Night Mode – Example with dark mode enabled](IMG_5826.jpeg)
 
----
-
-### 🧾 Project Folder – Organized files in Visual Studio Code
-![🧾 Project Folder – Organized files in Visual Studio Code](IMG_5827.jpeg)
 
 ---
 
-### 💻 index.html & script.js – Core HTML and JS interaction logic
-![💻 index.html & script.js – Core HTML and JS interaction logic](IMG_5828.jpeg)
+### 🖥️ index.html & script.js – Core HTML structure and interactive JS logic  
+👉 Example: After clicking "Yes", a motivational message is shown  
+![index.html interaction – Monthly check message](IMG_5828.jpeg)
 
 ---
 
-### 🎨 style.css – Styling and responsive layout in CSS
-![🎨 style.css – Styling and responsive layout in CSS](IMG_5829.jpeg)
+### 🎨 style.css – Styling and responsive layout in CSS  
+👉 Example: After clicking “No”, a warning message is shown to encourage action  
+![style.css interaction – Monthly check warning](IMG_5829.jpeg)
 
 ---
 
