@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #e91e63, #f8bbd0, #ffffff);
+  background-image: url('stars.jpg');
+  background-size: cover;
+  background-blend-mode: lighten;
+  color: #333;
+  transition: background 0.5s, color 0.5s;
+}
+
+body.dark-mode {
+  background: #121212;
+  color: white;
+}
+
+.logo img {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 80px;
+}
+
+.buttons {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.buttons button {
+  background-color: #e91e63;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.content {
+  text-align: center;
+  margin-top: 150px;
+  padding: 0 20px;
+}
+
+.subtitle {
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+.question {
+  margin-top: 60px;
+}
+
+.question button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #ec407a;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.tips {
+  margin-top: 50px;
+  text-align: left;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tips ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 60px;
+  font-weight: bold;
+  font-size: 18px;
+}

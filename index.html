@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Breast Cancer Awareness</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <div class="logo">
+    <img src="PINK.jpg" alt="Logo">
+  </div>
+
+  <div class="buttons">
+    <button onclick="navigateTo('index.html')">Main Page</button>
+    <button onclick="navigateTo('faq.html')">FAQ</button>
+    <button onclick="navigateTo('health-center.html')">Nearest Health Center</button>
+    <button onclick="navigateTo('self-check.html')">Self-Check Tips</button>
+    <button onclick="toggleDarkMode()">Night Mode</button>
+    <button onclick="navigateTo('doctor-visit.html')">When to Visit Doctor?</button>
+  </div>
+
+  <div class="content">
+    <h1>Early Detection of Breast Cancer</h1>
+    <p class="subtitle">Start Your Journey Towards Awareness and Health</p>
+
+    <div class="question">
+      <p>Did you perform your monthly check?</p>
+      <button onclick="respond('yes')">Yes</button>
+      <button onclick="respond('no')">No</button>
+      <p id="response"></p>
+    </div>
+
+    <div class="tips">
+      <ul>
+        <li>Make sure to check monthly.</li>
+        <li>Report any unusual shape or touch.</li>
+        <li>Know your family history.</li>
+        <li>Maintain a healthy lifestyle.</li>
+        <li>Reduce fat and sugar intake.</li>
+        <li>Visit a doctor if you notice anything wrong.</li>
+      </ul>
+    </div>
+
+    <p class="footer">Ryoof Dukhailallah Al-Malki</p>
+  </div>
+</body>
+</html>
